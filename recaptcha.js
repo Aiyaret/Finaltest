@@ -1,12 +1,12 @@
 // file: script.js
 // Initialize Firebase
 var config = {
- apiKey: "AIzaSyCkbqWEJ4880Qbg0WzXXwRfGo1V5-levag",
-    authDomain: "ncut-745ad.firebaseapp.com",
-    databaseURL: "https://ncut-745ad.firebaseio.com",
-    projectId: "ncut-745ad",
-    storageBucket: "ncut-745ad.appspot.com",
-    messagingSenderId: "470496706427"
+ apiKey: "AIzaSyCupRWS-7aa03hmPrKK7UuFGwIEvWRpfnM",
+    authDomain: "online-shop-ca2ca.firebaseapp.com",
+    databaseURL: "https://online-shop-ca2ca.firebaseio.com",
+    projectId: "online-shop-ca2ca",
+    storageBucket: "online-shop-ca2ca.appspot.com"
+  
 };
 firebase.initializeApp(config);
 
